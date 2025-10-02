@@ -5,6 +5,6 @@
 **RAG Advanced retrieval strategies: like semantic chunking, hybrid search, vector optimization, and multimodal RAG**
 
 <p align="center">
-    <img src="https://github.com/vpnsowmyame/Machine-Learning-Projects/blob/main/ML.png" width="900px" alt="Unwind AI">
+    <img src="https://github.com/vpnsowmyame/RAG-Pipeline_Using_LangChain/blob/main/rag-pipeline.png" width="900px" alt="Unwind AI">
 </p>
 
